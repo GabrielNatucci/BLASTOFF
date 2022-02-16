@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\bin\Debug\net6.0\Questao13.exe
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\bin\Debug\net6.0\Questao13.deps.json
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\bin\Debug\net6.0\Questao13.runtimeconfig.json
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\bin\Debug\net6.0\Questao13.dll
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\bin\Debug\net6.0\Questao13.pdb
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.dll
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\refint\Questao13.dll
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.pdb
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\Questao13.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Pessoal\programming\Todoo processo seletivo\BLASTOFF\Questao13\obj\Debug\net6.0\ref\Questao13.dll
